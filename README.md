@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🚀 I’m currently working on Web API project.
-- 📚 I’m currently learning Python and AWS.
+- 📚 I’m currently learning React and AWS.
 - 📫 How to reach me: [@sh_yoshida](https://twitter.com/sh_yoshida)
 
 ![121jigowatts's github stats](https://github-readme-stats.vercel.app/api?username=121jigowatts&count_private=true&show_icons=true&theme=vue)
